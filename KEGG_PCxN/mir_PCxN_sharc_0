@@ -1,0 +1,46 @@
+#!/bin/bash
+#SBATCH -p short
+#SBATCH -t 0-02:00
+#SBATCH -c 2
+#SBATCH --mem=16G
+#SBATCH -o hostname.%j.out 
+#SBATCH -e hostname.%j.err
+#SBATCH --mail-type=ALL
+#SBATCH --mail-user=pnaderiy@bidmc.harvard.edu
+
+
+
+
+module load gcc/6.2.0 R/3.5.1
+
+#module load mpi/openmi/2.1.1/gcc-6.2
+
+#Number of cores
+cores=2
+
+# Inputs
+
+# Select genesets file
+gs="KEGG_PCxN.RDS"
+
+# Select desired relationships based on the table (github)
+# Example: rels="1,2,4,6"
+rels="11"
+
+# Select whether you want partial-correlation(0) or not(1)
+pcor="0"
+
+# Output folder
+ofo="output_KEGG_PCxN"
+
+
+# Set the OPENMP_NUM_THREADS environment variable to 4
+#export OMP_NUM_THREADS=8
+
+
+# Run code (no need to change that) 
+
+# Run tissue-matrices generation
+Rscript mir_estimates00.R $gs
+echo estimates00 done !!!
+ 
