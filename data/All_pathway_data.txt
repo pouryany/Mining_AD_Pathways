@@ -1,0 +1,343 @@
+Pathway	Overall_rank	Genetic_rank	Notes
+Glycolysis/Gluconeogenesis	109	158	.
+Citrate cycle (TCA cycle)	129	142	.
+Pentose phosphate pathway	207	Excluded_too_few_papers	.
+Pentose and glucuronate interconversions	194	Excluded_too_few_papers	.
+Fructose and mannose metabolism	157	161	.
+Galactose metabolism	94	185	.
+Ascorbate and aldarate metabolism	84	85	.
+Fatty acid biosynthesis	35	70	.
+Fatty acid elongation	34	73	.
+Fatty acid degradation	34	73	.
+Synthesis and degradation of ketone bodies	130	145	.
+Steroid biosynthesis	55	95	.
+Primary bile acid biosynthesis	181	Excluded_too_few_papers	.
+Ubiquinone and other terpenoid-quinone biosynthesis	111	76	.
+Steroid hormone biosynthesis	56	96	.
+Oxidative phosphorylation	114	38	.
+Arginine biosynthesis	110	114	.
+Purine metabolism	132	68	.
+Caffeine metabolism	128	81	.
+Pyrimidine metabolism	198	Excluded_too_few_papers	.
+Alanine aspartate and glutamate metabolism	15	173	.
+Glycine serine and threonine metabolism	165	115	.
+Cysteine and methionine metabolism	52	87	.
+Valine leucine and isoleucine degradation	142	32	.
+Valine leucine and isoleucine biosynthesis	142	32	.
+Lysine degradation	115	125	.
+Arginine and proline metabolism	80	117	.
+Histidine metabolism	146	129	.
+Tyrosine metabolism	54	155	.
+Phenylalanine metabolism	163	88	.
+Tryptophan metabolism	87	106	.
+Phenylalanine tyrosine and tryptophan biosynthesis	31	134	.
+beta[^a-zA-Z]Alanine metabolism	113	135	.
+Taurine and hypotaurine metabolism	172	Excluded_too_few_papers	.
+Phosphonate and phosphinate metabolism	220	Excluded_too_few_papers	.
+Selenocompound metabolism	131	107	.
+D-Glutamine and D-glutamate metabolism	68	166	.
+D-Arginine and D-ornithine metabolism	170	103	.
+Glutathione metabolism	29	163	.
+Starch and sucrose metabolism	160	111	.
+N-Glycan biosynthesis	160	46	.
+Other glycan degradation	168	59	.
+Mucin type O-glycan biosynthesis	192	Excluded_too_few_papers	.
+Various types of N-glycan biosynthesis	171	35	.
+Other types of O-glycan biosynthesis	192	Excluded_too_few_papers	.
+Mannose type O-glycan biosynthesis	192	Excluded_too_few_papers	.
+Amino sugar and nucleotide sugar metabolism	235	Excluded_too_few_papers	No_association
+Neomycin kanamycin and gentamicin biosynthesis	218	Excluded_too_few_papers	.
+Glycosaminoglycan degradation	120	167	.
+Glycosaminoglycan biosynthesis	120	167	.
+Glycosaminoglycan biosynthesis	120	167	Duplicate_pathway_in_KEGG
+Glycosaminoglycan biosynthesis	120	167	Duplicate_pathway_in_KEGG
+Glycerolipid metabolism	226	Excluded_too_few_papers	.
+Inositol phosphate metabolism	75	146	.
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	186	Excluded_too_few_papers	.
+Glycerophospholipid metabolism	198	Excluded_too_few_papers	.
+Ether lipid metabolism	208	Excluded_too_few_papers	.
+Arachidonic acid metabolism	96	156	.
+Linoleic acid metabolism	185	Excluded_too_few_papers	.
+alpha-Linolenic acid metabolism	190	Excluded_too_few_papers	.
+Sphingolipid metabolism	125	112	.
+Glycosphingolipid biosynthesis	177	Excluded_too_few_papers	.
+Glycosphingolipid biosynthesis	177	Excluded_too_few_papers	Duplicate_pathway_in_KEGG
+Glycosphingolipid biosynthesis	177	Excluded_too_few_papers	Duplicate_pathway_in_KEGG
+Pyruvate metabolism	124	150	.
+Glyoxylate and dicarboxylate metabolism	227	Excluded_too_few_papers	.
+Propanoate metabolism	211	Excluded_too_few_papers	.
+Butanoate metabolism	212	Excluded_too_few_papers	.
+One carbon pool by folate	63	2	.
+Thiamine metabolism	140	78	.
+Riboflavin metabolism	210	Excluded_too_few_papers	.
+Vitamin B6 metabolism	156	4	.
+Nicotinate and nicotinamide metabolism	118	159	.
+Pantothenate and CoA biosynthesis	86	51	.
+Biotin metabolism	215	Excluded_too_few_papers	.
+Lipoic acid metabolism	150	174	.
+Folate biosynthesis	57	6	.
+Retinol metabolism	184	Excluded_too_few_papers	.
+Porphyrin and chlorophyll metabolism	202	Excluded_too_few_papers	.
+Terpenoid backbone biosynthesis	152	128	.
+Nitrogen metabolism	100	169	.
+Sulfur metabolism	196	Excluded_too_few_papers	.
+Aminoacyl-tRNA biosynthesis	175	Excluded_too_few_papers	.
+Metabolism of xenobiotics by cytochrome P450	108	20	.
+Drug metabolism	194	Excluded_too_few_papers	.
+Drug metabolism	194	Excluded_too_few_papers	Duplicate_pathway_in_KEGG
+Biosynthesis of unsaturated fatty acids	65	75	.
+Metabolic pathways	4	65	.
+Carbon metabolism	157	45	.
+2-Oxocarboxylic acid metabolism	216	Excluded_too_few_papers	.
+Fatty acid metabolism	34	73	.
+Biosynthesis of amino acids	173	Excluded_too_few_papers	.
+EGFR tyrosine kinase inhibitor resistance	134	57	.
+Endocrine resistance	231	Excluded_too_few_papers	.
+Antifolate resistance	236	Excluded_too_few_papers	Dodgy
+Platinum drug resistance	233	Excluded_too_few_papers	.
+ABC transporters	89	8	.
+Ribosome biogenesis in eukaryotes	119	66	.
+Ribosome	119	66	.
+RNA transport	200	Excluded_too_few_papers	.
+mRNA surveillance pathway	185	Excluded_too_few_papers	.
+RNA degradation	172	Excluded_too_few_papers	.
+RNA polymerase	199	Excluded_too_few_papers	.
+Basal transcription factors	28	49	.
+DNA replication	176	Excluded_too_few_papers	.
+Spliceosome	105	1	.
+Proteasome	11	82	.
+Protein export	121	92	.
+PPAR signaling pathway	76	131	.
+Base excision repair	192	Excluded_too_few_papers	.
+Nucleotide excision repair	217	Excluded_too_few_papers	.
+Mismatch repair	230	Excluded_too_few_papers	.
+Homologous recombination	206	Excluded_too_few_papers	.
+Non-homologous end-joining	221	Excluded_too_few_papers	.
+Fanconi anemia pathway	232	Excluded_too_few_papers	.
+MAPK signaling pathway	43	176	.
+ErbB signaling pathway	131	28	.
+Ras signaling pathway	150	69	.
+Rap1 signaling pathway	222	Excluded_too_few_papers	.
+Calcium signaling pathway	13	127	.
+cGMP-PKG signaling pathway	138	177	.
+cAMP signaling pathway	61	154	.
+Cytokine-cytokine receptor interaction	42	133	.
+Viral protein interaction with cytokine and cytokine receptor	101	139	.
+Chemokine signaling pathway	12	132	.
+NF-kappa B signaling pathway	39	164	.
+HIF-1 signaling pathway	155	116	.
+FoxO signaling pathway	149	99	.
+Phosphatidylinositol signaling system	95	143	.
+Sphingolipid signaling pathway	127	123	.
+Phospholipase D signaling pathway	77	138	.
+Neuroactive ligand-receptor interaction	222	Excluded_too_few_papers	.
+Cell cycle	50	72	.
+Oocyte meiosis	205	Excluded_too_few_papers	.
+p53 signaling pathway	82	89	.
+Ubiquitin mediated proteolysis	25	58	.
+Sulfur relay system	197	Excluded_too_few_papers	.
+SNARE interactions in vesicular transport	195	Excluded_too_few_papers	.
+Autophagy	40	144	.
+Mitophagy	177	Excluded_too_few_papers	.
+Autophagy	40	144	Duplicate_pathway_in_KEGG
+Protein processing in endoplasmic reticulum	36	91	.
+Lysosome	32	110	.
+Endocytosis	41	120	.
+Phagosome	51	170	.
+Peroxisome	88	136	.
+mTOR signaling pathway	85	137	.
+PI3K-Akt signaling pathway	44	179	.
+AMPK signaling pathway	117	168	.
+Apoptosis	8	148	.
+Longevity regulating pathway	58	18	.
+Longevity regulating pathway	58	18	Duplicate_pathway_in_KEGG
+Apoptosis	8	149	Duplicate_pathway_in_KEGG
+Ferroptosis	224	Excluded_too_few_papers	.
+Necroptosis	220	Excluded_too_few_papers	.
+Cellular senescence	46	121	.
+Cardiac muscle contraction	199	Excluded_too_few_papers	.
+Adrenergic signaling in cardiomyocytes	53	153	.
+Vascular smooth muscle contraction	166	Excluded_too_few_papers	.
+Wnt signaling pathway	95	100	.
+Notch signaling pathway	48	11	.
+Hedgehog signaling pathway	204	Excluded_too_few_papers	.
+TGF-beta signaling pathway	81	90	.
+Axon guidance	153	104	.
+VEGF signaling pathway	99	98	.
+Apelin signaling pathway	235	Excluded_too_few_papers	.
+Osteoclast differentiation	188	Excluded_too_few_papers	.
+Hippo signaling pathway	234	Excluded_too_few_papers	.
+Hippo signaling pathway	234	Excluded_too_few_papers	Duplicate_pathway_in_KEGG
+Focal adhesion	83	84	.
+ECM-receptor interaction	143	183	.
+Cell adhesion molecules (CAMs)	93	105	.
+Adherens junction	214	Excluded_too_few_papers	.
+Tight junction	135	182	.
+Gap junction	182	Excluded_too_few_papers	.
+Signaling pathways regulating pluripotency of stem cells	78	165	.
+Complement and coagulation cascades	45	52	.
+Platelet activation	136	108	.
+Antigen processing and presentation	91	109	.
+Renin-angiotensin system	64	12	.
+Toll-like receptor signaling pathway	103	93	.
+NOD-like receptor signaling pathway	206	Excluded_too_few_papers	.
+RIG-I-like receptor signaling pathway	228	Excluded_too_few_papers	.
+Cytosolic DNA-sensing pathway	232	Excluded_too_few_papers	.
+C-type lectin receptor signaling pathway	223	Excluded_too_few_papers	.
+JAK-STAT signaling pathway	122	124	.
+Hematopoietic cell lineage	147	157	.
+Natural killer cell mediated cytotoxicity	179	Excluded_too_few_papers	.
+IL-17 signaling pathway	195	Excluded_too_few_papers	.
+Th1 and Th2 cell differentiation	139	122	.
+Th17 cell differentiation	212	Excluded_too_few_papers	.
+T cell receptor signaling pathway	71	119	.
+B cell receptor signaling pathway	126	126	.
+Fc epsilon RI signaling pathway	235	Excluded_too_few_papers	.
+Fc gamma R-mediated phagocytosis	209	Excluded_too_few_papers	.
+TNF signaling pathway	23	141	.
+Leukocyte transendothelial migration	181	Excluded_too_few_papers	.
+Intestinal immune network for IgA production	189	Excluded_too_few_papers	.
+Circadian rhythm	67	62	.
+Circadian entrainment	67	62	.
+Thermogenesis	203	Excluded_too_few_papers	.
+Long-term potentiation	33	184	.
+Synaptic vesicle cycle	74	152	.
+Neurotrophin signaling pathway	62	172	.
+Retrograde endocannabinoid signaling	148	162	.
+Glutamatergic synapse	14	175	.
+Cholinergic synapse	6	171	.
+Serotonergic synapse	24	71	.
+GABAergic synapse	44	180	.
+Dopaminergic synapse	16	102	.
+Long-term depression	5	41	.
+Olfactory transduction	37	118	.
+Taste transduction	143	77	.
+Phototransduction	235	Excluded_too_few_papers	.
+Inflammatory mediator regulation of TRP channels	229	Excluded_too_few_papers	.
+Regulation of actin cytoskeleton	60	130	.
+Insulin signaling pathway	20	64	.
+Insulin secretion	20	64	.
+GnRH signaling pathway	144	54	.
+Ovarian steroidogenesis	154	94	.
+Progesterone-mediated oocyte maturation	234	Excluded_too_few_papers	.
+Estrogen signaling pathway	27	39	.
+Melanogenesis	161	181	.
+Prolactin signaling pathway	174	Excluded_too_few_papers	.
+Thyroid hormone synthesis	106	53	.
+Thyroid hormone signaling pathway	106	53	.
+Adipocytokine signaling pathway	177	Excluded_too_few_papers	.
+Oxytocin signaling pathway	184	Excluded_too_few_papers	.
+Glucagon signaling pathway	209	Excluded_too_few_papers	.
+Regulation of lipolysis in adipocytes	223	Excluded_too_few_papers	.
+Renin secretion	133	17	.
+Aldosterone synthesis and secretion	193	Excluded_too_few_papers	.
+Relaxin signaling pathway	235	Excluded_too_few_papers	.
+Cortisol synthesis and secretion	79	63	.
+Parathyroid hormone synthesis secretion and action	187	Excluded_too_few_papers	.
+GnRH secretion	164	56	.
+Type II diabetes mellitus	26	26	.
+Insulin resistance	49	50	.
+Non-alcoholic fatty liver disease (NAFLD)	196	Excluded_too_few_papers	.
+AGE-RAGE signaling pathway in diabetic complications	66	140	.
+Cushing syndrome	206	Excluded_too_few_papers	.
+Type I diabetes mellitus	132	10	.
+Maturity onset diabetes of the young	236	Excluded_too_few_papers	Dodgy
+Aldosterone-regulated sodium reabsorption	193	Excluded_too_few_papers	.
+Endocrine and other factor-regulated calcium reabsorption	235	Excluded_too_few_papers	.
+Vasopressin-regulated water reabsorption	214	Excluded_too_few_papers	.
+Proximal tubule bicarbonate reclamation	237	Excluded_too_few_papers	No_association
+Collecting duct acid secretion	236	Excluded_too_few_papers	No_association
+Salivary secretion	196	Excluded_too_few_papers	.
+Gastric acid secretion	222	Excluded_too_few_papers	.
+Pancreatic secretion	73	83	.
+Carbohydrate digestion and absorption	220	Excluded_too_few_papers	.
+Protein digestion and absorption	203	Excluded_too_few_papers	.
+Fat digestion and absorption	219	Excluded_too_few_papers	.
+Bile secretion	162	45	.
+Vitamin digestion and absorption	159	24	.
+Mineral absorption	222	Excluded_too_few_papers	.
+Cholesterol metabolism	17	21	.
+Alzheimer disease	1	74	.
+Parkinson disease	2	61	.
+Amyotrophic lateral sclerosis (ALS)	10	60	.
+Huntington disease	18	67	.
+Prion diseases	21	47	.
+Cocaine addiction	126	80	.
+Amphetamine addiction	120	160	.
+Morphine addiction	141	151	.
+Nicotine addiction	59	147	.
+Alcoholism	22	16	.
+Bacterial invasion of epithelial cells	230	Excluded_too_few_papers	.
+Vibrio cholerae infection	197	Excluded_too_few_papers	.
+Epithelial cell signaling in Helicobacter pylori infection	183	Excluded_too_few_papers	.
+Pathogenic Escherichia coli infection	102	44	.
+Shigellosis	231	Excluded_too_few_papers	.
+Salmonella infection	208	Excluded_too_few_papers	.
+Pertussis	179	Excluded_too_few_papers	.
+Legionellosis	234	Excluded_too_few_papers	.
+Yersinia infection	237	Excluded_too_few_papers	No_association
+Leishmaniasis	218	Excluded_too_few_papers	.
+Chagas disease (American trypanosomiasis)	216	Excluded_too_few_papers	.
+African trypanosomiasis	224	Excluded_too_few_papers	.
+Malaria	167	Excluded_too_few_papers	.
+Toxoplasmosis	151	43	.
+Amoebiasis	237	Excluded_too_few_papers	No_association
+Staphylococcus aureus infection	189	Excluded_too_few_papers	.
+Tuberculosis	145	29	.
+Hepatitis C	132	30	.
+Hepatitis B	123	37	.
+Measles	201	Excluded_too_few_papers	.
+Human cytomegalovirus infection	158	48	.
+Influenza A	146	40	.
+Human papillomavirus infection	225	Excluded_too_few_papers	.
+Human T-cell leukemia virus 1 infection	179	Excluded_too_few_papers	.
+Kaposi sarcoma-associated herpesvirus infection	225	Excluded_too_few_papers	.
+Herpes simplex virus 1 infection	97	15	.
+Epstein-Barr virus infection	191	Excluded_too_few_papers	.
+Human immunodeficiency virus 1 infection	19	86	.
+Pathways in cancer	38	55	.
+Transcriptional misregulation in cancer	107	34	.
+Viral carcinogenesis	213	Excluded_too_few_papers	.
+Chemical carcinogenesis	129	33	.
+Proteoglycans in cancer	221	Excluded_too_few_papers	.
+MicroRNAs in cancer	169	Excluded_too_few_papers	.
+Colorectal cancer	92	7	.
+Renal cell carcinoma	214	Excluded_too_few_papers	.
+Pancreatic cancer	198	Excluded_too_few_papers	.
+Endometrial cancer	178	Excluded_too_few_papers	.
+Glioma	72	97	.
+Prostate cancer	116	9	.
+Thyroid cancer	221	Excluded_too_few_papers	.
+Basal cell carcinoma	229	Excluded_too_few_papers	.
+Melanoma	151	19	.
+Bladder cancer	210	Excluded_too_few_papers	.
+Chronic myeloid leukemia	112	36	.
+Acute myeloid leukemia	112	36	.
+Small cell lung cancer	137	25	.
+Non-small cell lung cancer	131	22	.
+Breast cancer	69	3	.
+Hepatocellular carcinoma	180	Excluded_too_few_papers	.
+Gastric cancer	190	Excluded_too_few_papers	.
+Central carbon metabolism in cancer	190	Excluded_too_few_papers	.
+Choline metabolism in cancer	209	Excluded_too_few_papers	.
+PD-L1 expression and PD-1 checkpoint pathway in cancer	231	Excluded_too_few_papers	.
+Asthma	98	23	.
+Autoimmune thyroid disease	176	Excluded_too_few_papers	.
+Inflammatory bowel disease (IBD)	177	Excluded_too_few_papers	.
+Systemic lupus erythematosus	130	42	.
+Rheumatoid arthritis	47	31	.
+Allograft rejection	200	Excluded_too_few_papers	.
+Graft-versus-host disease	220	Excluded_too_few_papers	.
+Primary immunodeficiency	212	Excluded_too_few_papers	.
+Hypertrophic cardiomyopathy (HCM)	158	5	.
+Arrhythmogenic right ventricular cardiomyopathy (ARVC)	158	5	.
+Dilated cardiomyopathy (DCM)	158	5	.
+Viral myocarditis	220	Excluded_too_few_papers	.
+Fluid shear stress and atherosclerosis	30	13	.
+Diabetes	7	14	Added_pathway
+Cancer	9	27	Added_pathway
+Adaptive immune system	104	113	Reactome
+Innate immune system	70	79	Reactome
+Cytokine signaling in immune system	90	178	Reactome
+immune system	3	101	Added_pathway
+

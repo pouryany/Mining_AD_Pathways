@@ -12,7 +12,7 @@
 
 
 
-module load gcc/6.2.0 R/3.5.1
+module load gcc/6.2.0 R/3.6.1
 
 #module load mpi/openmi/2.1.1/gcc-6.2
 

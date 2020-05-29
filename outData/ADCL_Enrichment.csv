@@ -1,0 +1,306 @@
+"","Pathway","Overall_rank","pval","Intersect","ADset_Size","pathway_Size","adj_p","enrich_rank"
+"101","Pathway.KEGG_Asthma",98,7.03010054276596e-09,6,40,31,2.14418066554362e-06,1
+"165","Pathway.KEGG_Hematopoietic cell lineage",147,2.26480430753471e-08,8,40,99,2.61226810459072e-06,2
+"251","Pathway.KEGG_Allograft rejection",200,2.56944403730235e-08,6,40,38,2.61226810459072e-06,3
+"287","Pathway.KEGG_Graft-versus-host disease",220,4.13933883376096e-08,6,40,41,3.15624586074273e-06,4
+"146","Pathway.KEGG_Type I diabetes mellitus",132,5.5715208895859e-08,6,40,43,3.3986277426474e-06,5
+"93","Pathway.KEGG_Antigen processing and presentation",91,9.07467925496354e-08,7,40,78,3.95396738966268e-06,7
+"282","Pathway.KEGG_Leishmaniasis",218,8.29029396361314e-08,7,40,77,3.95396738966268e-06,6
+"224","Pathway.KEGG_Intestinal immune network for IgA production",189,1.25028436042935e-07,6,40,49,4.76670912413689e-06,8
+"203","Pathway.KEGG_Autoimmune thyroid disease",176,2.02285202989827e-07,6,40,53,6.85522076798859e-06,9
+"288","Pathway.KEGG_Viral myocarditis",220,4.29993437481583e-07,6,40,60,1.31147998431883e-05,10
+"207","Pathway.KEGG_Inflammatory bowel disease (IBD)",177,6.96594392996451e-07,6,40,65,1.93146627149016e-05,11
+"48","Pathway.KEGG_Rheumatoid arthritis",47,5.80313412322391e-06,6,40,93,0.000136150454429484,13
+"154","Pathway.KEGG_Th1 and Th2 cell differentiation",139,5.44862064511476e-06,6,40,92,0.000136150454429484,12
+"225","Pathway.KEGG_Staphylococcus aureus infection",189,6.98082709677449e-06,6,40,96,0.000152082304608301,14
+"271","Pathway.KEGG_Th17 cell differentiation",212,1.30723399156214e-05,6,40,107,0.000265804244950968,15
+"1","Pathway.KEGG_Alzheimer disease",1,1.83499156268134e-05,7,40,171,0.000310929125898783,18
+"164","Pathway.KEGG_Influenza A",146,1.76629682533885e-05,7,40,170,0.000310929125898783,17
+"170","Pathway.KEGG_Toxoplasmosis",151,1.69914163575615e-05,6,40,112,0.000310929125898783,16
+"162","Pathway.KEGG_Tuberculosis",145,2.55895841718789e-05,7,40,180,0.000410780166969635,19
+"141","Pathway.KEGG_Systemic lupus erythematosus",130,4.50957497018085e-05,6,40,133,0.00068771018295258,20
+"95","Pathway.KEGG_Cell adhesion molecules (CAMs)",93,7.8970988026295e-05,6,40,147,0.00114695958800095,21
+"52","Pathway.KEGG_Phagosome",51,9.5097777102473e-05,6,40,152,0.00131840100073883,22
+"229","Pathway.KEGG_Epstein-Barr virus infection",191,0.00043552658605254,6,40,201,0.00577546124982716,23
+"211","Pathway.KEGG_Human T-cell leukemia virus 1 infection",179,0.000686379285017312,6,40,219,0.00872273674709501,24
+"49","Pathway.KEGG_Notch signaling pathway",48,0.00227130934803022,3,40,53,0.0277099740459686,25
+"100","Pathway.KEGG_Herpes simplex virus 1 infection",97,0.00252897226659428,8,40,491,0.0296667900504329,26
+"317","Pathway.KEGG_Legionellosis",234,0.0326287750526818,2,40,57,0.368584310780294,27
+"46","Pathway.KEGG_Complement and coagulation cascades",45,0.0669203623771157,2,40,85,0.728953947322153,28
+"264","Pathway.KEGG_Fc gamma R-mediated phagocytosis",209,0.0782405579701742,2,40,93,0.822874833824246,29
+"2","Pathway.KEGG_Parkinson disease",2,0.511768756384586,1,40,142,1,65
+"3","Pathway.KEGG_Metabolic pathways",4,0.997327004234038,2,40,1489,1,84
+"4","Pathway.KEGG_Long-term depression",5,1,0,40,60,1,195
+"5","Pathway.KEGG_Cholinergic synapse",6,1,0,40,112,1,195
+"6","Pathway.KEGG_Apoptosis",8,1,0,40,136,1,195
+"7","Pathway.KEGG_Amyotrophic lateral sclerosis (ALS)",10,1,0,40,57,1,195
+"8","Pathway.KEGG_Proteasome",11,1,0,40,45,1,195
+"9","Pathway.KEGG_Chemokine signaling pathway",12,0.616006972769637,1,40,189,1,77
+"10","Pathway.KEGG_Calcium signaling pathway",13,0.623801059388421,1,40,193,1,78
+"11","Pathway.KEGG_Glutamatergic synapse",14,1,0,40,114,1,195
+"12","Pathway.KEGG_Alanine, aspartate and glutamate metabolism",15,1,0,40,36,1,195
+"13","Pathway.KEGG_Dopaminergic synapse",16,1,0,40,132,1,195
+"14","Pathway.KEGG_Cholesterol metabolism",17,0.221969549813253,1,40,50,1,39.5
+"15","Pathway.KEGG_Huntington disease",18,0.381613785202132,2,40,264,1,54
+"16","Pathway.KEGG_Human immunodeficiency virus 1 infection",19,0.658765683999207,1,40,212,1,79
+"17","Pathway.KEGG_Insulin signaling pathway",20,1,0,40,137,1,195
+"18","Pathway.KEGG_Insulin secretion",20,1,0,40,86,1,195
+"19","Pathway.KEGG_Prion diseases",21,1,0,40,35,1,195
+"20","Pathway.KEGG_Alcoholism",22,1,0,40,184,1,195
+"21","Pathway.KEGG_TNF signaling pathway",23,1,0,40,112,1,195
+"22","Pathway.KEGG_Serotonergic synapse",24,0.439904775866565,1,40,115,1,59
+"23","Pathway.KEGG_Ubiquitin mediated proteolysis",25,1,0,40,136,1,195
+"24","Pathway.KEGG_Type II diabetes mellitus",26,1,0,40,46,1,195
+"25","Pathway.KEGG_Estrogen signaling pathway",27,1,0,40,138,1,195
+"26","Pathway.KEGG_Basal transcription factors",28,1,0,40,45,1,195
+"27","Pathway.KEGG_Glutathione metabolism",29,1,0,40,56,1,195
+"28","Pathway.KEGG_Fluid shear stress and atherosclerosis",30,0.152449352704088,2,40,139,1,35
+"30","Pathway.KEGG_Lysosome",32,0.462209423830998,1,40,123,1,61
+"31","Pathway.KEGG_Long-term potentiation",33,1,0,40,67,1,195
+"32","Pathway.KEGG_Fatty acid elongation",34,1,0,40,27,1,195
+"33","Pathway.KEGG_Fatty acid degradation",34,1,0,40,44,1,195
+"34","Pathway.KEGG_Fatty acid metabolism",34,1,0,40,57,1,195
+"35","Pathway.KEGG_Fatty acid biosynthesis",35,1,0,40,18,1,195
+"36","Pathway.KEGG_Protein processing in endoplasmic reticulum",36,0.568040426934141,1,40,166,1,73
+"37","Pathway.KEGG_Olfactory transduction",37,0.90045039273841,1,40,448,1,83
+"38","Pathway.KEGG_Pathways in cancer",38,1,0,40,531,1,195
+"39","Pathway.KEGG_NF-kappa B signaling pathway",39,1,0,40,102,1,195
+"40","Pathway.KEGG_Autophagy - animal",40,0.148976921779115,2,40,137,1,34
+"41","Pathway.KEGG_Endocytosis",41,0.126815881221718,3,40,249,1,32
+"42","Pathway.KEGG_Cytokine-cytokine receptor interaction",42,1,0,40,294,1,195
+"43","Pathway.KEGG_MAPK signaling pathway",43,0.436328641643219,2,40,295,1,58
+"44","Pathway.KEGG_PI3K-Akt signaling pathway",44,1,0,40,354,1,195
+"45","Pathway.KEGG_GABAergic synapse",44,1,0,40,89,1,195
+"47","Pathway.KEGG_Cellular senescence",46,0.55459612495824,1,40,160,1,71
+"50","Pathway.KEGG_Insulin resistance",49,1,0,40,108,1,195
+"51","Pathway.KEGG_Cell cycle",50,1,0,40,124,1,195
+"53","Pathway.KEGG_Cysteine and methionine metabolism",52,1,0,40,49,1,195
+"54","Pathway.KEGG_Adrenergic signaling in cardiomyocytes",53,1,0,40,149,1,195
+"55","Pathway.KEGG_Tyrosine metabolism",54,1,0,40,36,1,195
+"56","Pathway.KEGG_Steroid biosynthesis",55,1,0,40,20,1,195
+"57","Pathway.KEGG_Steroid hormone biosynthesis",56,1,0,40,60,1,195
+"58","Pathway.KEGG_Folate biosynthesis",57,1,0,40,26,1,195
+"59","Pathway.KEGG_Longevity regulating pathway",58,1,0,40,89,1,195
+"60","Pathway.KEGG_Nicotine addiction",59,1,0,40,40,1,195
+"61","Pathway.KEGG_Regulation of actin cytoskeleton",60,1,0,40,213,1,195
+"62","Pathway.KEGG_cAMP signaling pathway",61,1,0,40,216,1,195
+"63","Pathway.KEGG_Neurotrophin signaling pathway",62,0.118584191757542,2,40,119,1,31
+"64","Pathway.KEGG_One carbon pool by folate",63,1,0,40,20,1,195
+"65","Pathway.KEGG_Renin-angiotensin system",64,0.108865273107632,1,40,23,1,30
+"66","Pathway.KEGG_Biosynthesis of unsaturated fatty acids",65,1,0,40,27,1,195
+"67","Pathway.KEGG_AGE-RAGE signaling pathway in diabetic complications",66,1,0,40,100,1,195
+"68","Pathway.KEGG_Circadian rhythm",67,1,0,40,31,1,195
+"69","Pathway.KEGG_Circadian entrainment",67,1,0,40,97,1,195
+"71","Pathway.KEGG_Breast cancer",69,1,0,40,147,1,195
+"73","Pathway.KEGG_T cell receptor signaling pathway",71,1,0,40,104,1,195
+"74","Pathway.KEGG_Glioma",72,1,0,40,75,1,195
+"75","Pathway.KEGG_Pancreatic secretion",73,1,0,40,102,1,195
+"76","Pathway.KEGG_Synaptic vesicle cycle",74,0.324454510373663,1,40,78,1,50
+"77","Pathway.KEGG_Inositol phosphate metabolism",75,0.310663914270084,1,40,74,1,47
+"78","Pathway.KEGG_PPAR signaling pathway",76,1,0,40,76,1,195
+"79","Pathway.KEGG_Phospholipase D signaling pathway",77,0.526472497528405,1,40,148,1,66.5
+"80","Pathway.KEGG_Signaling pathways regulating pluripotency of stem cells",78,1,0,40,140,1,195
+"81","Pathway.KEGG_Cortisol synthesis and secretion",79,1,0,40,65,1,195
+"82","Pathway.KEGG_Arginine and proline metabolism",80,1,0,40,50,1,195
+"83","Pathway.KEGG_TGF-beta signaling pathway",81,1,0,40,94,1,195
+"84","Pathway.KEGG_p53 signaling pathway",82,1,0,40,72,1,195
+"85","Pathway.KEGG_Focal adhesion",83,1,0,40,199,1,195
+"86","Pathway.KEGG_Ascorbate and aldarate metabolism",84,1,0,40,27,1,195
+"87","Pathway.KEGG_mTOR signaling pathway",85,1,0,40,153,1,195
+"88","Pathway.KEGG_Pantothenate and CoA biosynthesis",86,1,0,40,19,1,195
+"89","Pathway.KEGG_Tryptophan metabolism",87,1,0,40,42,1,195
+"90","Pathway.KEGG_Peroxisome",88,1,0,40,83,1,195
+"91","Pathway.KEGG_ABC transporters",89,0.20213802947392,1,40,45,1,38
+"94","Pathway.KEGG_Colorectal cancer",92,1,0,40,86,1,195
+"96","Pathway.KEGG_Galactose metabolism",94,1,0,40,31,1,195
+"97","Pathway.KEGG_Phosphatidylinositol signaling system",95,0.392556996981405,1,40,99,1,55
+"98","Pathway.KEGG_Wnt signaling pathway",95,0.189791313047918,2,40,160,1,36
+"99","Pathway.KEGG_Arachidonic acid metabolism",96,1,0,40,63,1,195
+"102","Pathway.KEGG_VEGF signaling pathway",99,1,0,40,59,1,195
+"103","Pathway.KEGG_Nitrogen metabolism",100,1,0,40,17,1,195
+"104","Pathway.KEGG_Viral protein interaction with cytokine and cytokine receptor",101,1,0,40,100,1,195
+"105","Pathway.KEGG_Pathogenic Escherichia coli infection",102,1,0,40,202,1,195
+"106","Pathway.KEGG_Toll-like receptor signaling pathway",103,1,0,40,104,1,195
+"108","Pathway.KEGG_Spliceosome",105,1,0,40,149,1,195
+"109","Pathway.KEGG_Thyroid hormone synthesis",106,1,0,40,74,1,195
+"110","Pathway.KEGG_Thyroid hormone signaling pathway",106,1,0,40,119,1,195
+"111","Pathway.KEGG_Transcriptional misregulation in cancer",107,0.237540822649816,2,40,186,1,42
+"112","Pathway.KEGG_Metabolism of xenobiotics by cytochrome P450",108,1,0,40,76,1,195
+"114","Pathway.KEGG_Arginine biosynthesis",110,1,0,40,21,1,195
+"115","Pathway.KEGG_Ubiquinone and other terpenoid-quinone biosynthesis",111,1,0,40,11,1,195
+"116","Pathway.KEGG_Chronic myeloid leukemia",112,1,0,40,76,1,195
+"117","Pathway.KEGG_Acute myeloid leukemia",112,1,0,40,67,1,195
+"119","Pathway.KEGG_Oxidative phosphorylation",114,0.488875037822631,1,40,133,1,63
+"120","Pathway.KEGG_Lysine degradation",115,1,0,40,61,1,195
+"121","Pathway.KEGG_Prostate cancer",116,1,0,40,97,1,195
+"122","Pathway.KEGG_AMPK signaling pathway",117,1,0,40,120,1,195
+"123","Pathway.KEGG_Nicotinate and nicotinamide metabolism",118,1,0,40,37,1,195
+"124","Pathway.KEGG_Ribosome biogenesis in eukaryotes",119,1,0,40,105,1,195
+"125","Pathway.KEGG_Ribosome",119,1,0,40,153,1,195
+"126","Pathway.KEGG_Glycosaminoglycan degradation",120,1,0,40,19,1,195
+"128","Pathway.KEGG_Amphetamine addiction",120,1,0,40,69,1,195
+"129","Pathway.KEGG_Protein export",121,1,0,40,23,1,195
+"130","Pathway.KEGG_JAK-STAT signaling pathway",122,1,0,40,162,1,195
+"131","Pathway.KEGG_Hepatitis B",123,0.559122270274329,1,40,162,1,72
+"132","Pathway.KEGG_Pyruvate metabolism",124,1,0,40,39,1,195
+"133","Pathway.KEGG_Sphingolipid metabolism",125,1,0,40,47,1,195
+"134","Pathway.KEGG_B cell receptor signaling pathway",126,0.337975979464353,1,40,82,1,51
+"135","Pathway.KEGG_Cocaine addiction",126,1,0,40,49,1,195
+"136","Pathway.KEGG_Sphingolipid signaling pathway",127,1,0,40,119,1,195
+"138","Pathway.KEGG_Citrate cycle (TCA cycle)",129,1,0,40,30,1,195
+"139","Pathway.KEGG_Chemical carcinogenesis",129,1,0,40,82,1,195
+"140","Pathway.KEGG_Synthesis and degradation of ketone bodies",130,1,0,40,10,1,195
+"142","Pathway.KEGG_Selenocompound metabolism",131,1,0,40,17,1,195
+"143","Pathway.KEGG_ErbB signaling pathway",131,1,0,40,85,1,195
+"144","Pathway.KEGG_Non-small cell lung cancer",131,1,0,40,66,1,195
+"145","Pathway.KEGG_Purine metabolism",132,1,0,40,130,1,195
+"147","Pathway.KEGG_Hepatitis C",132,0.543081637393601,1,40,155,1,70
+"148","Pathway.KEGG_Renin secretion",133,0.293039252753682,1,40,69,1,44
+"149","Pathway.KEGG_EGFR tyrosine kinase inhibitor resistance",134,1,0,40,79,1,195
+"150","Pathway.KEGG_Tight junction",135,1,0,40,169,1,195
+"151","Pathway.KEGG_Platelet activation",136,1,0,40,124,1,195
+"152","Pathway.KEGG_Small cell lung cancer",137,1,0,40,92,1,195
+"153","Pathway.KEGG_cGMP-PKG signaling pathway",138,0.570242336316407,1,40,167,1,74
+"155","Pathway.KEGG_Thiamine metabolism",140,1,0,40,16,1,195
+"156","Pathway.KEGG_Morphine addiction",141,1,0,40,91,1,195
+"159","Pathway.KEGG_ECM-receptor interaction",143,1,0,40,88,1,195
+"160","Pathway.KEGG_Taste transduction",143,1,0,40,83,1,195
+"161","Pathway.KEGG_GnRH signaling pathway",144,0.373813795135156,1,40,93,1,53
+"163","Pathway.KEGG_Histidine metabolism",146,1,0,40,23,1,195
+"166","Pathway.KEGG_Retrograde endocannabinoid signaling",148,0.526472497528405,1,40,148,1,66.5
+"167","Pathway.KEGG_FoxO signaling pathway",149,1,0,40,131,1,195
+"169","Pathway.KEGG_Ras signaling pathway",150,1,0,40,232,1,195
+"171","Pathway.KEGG_Melanoma",151,1,0,40,72,1,195
+"172","Pathway.KEGG_Terpenoid backbone biosynthesis",152,1,0,40,22,1,195
+"173","Pathway.KEGG_Axon guidance",153,0.599943627040531,1,40,181,1,75.5
+"174","Pathway.KEGG_Ovarian steroidogenesis",154,1,0,40,51,1,195
+"175","Pathway.KEGG_HIF-1 signaling pathway",155,1,0,40,109,1,195
+"177","Pathway.KEGG_Fructose and mannose metabolism",157,1,0,40,33,1,195
+"178","Pathway.KEGG_Carbon metabolism",157,1,0,40,117,1,195
+"179","Pathway.KEGG_Human cytomegalovirus infection",158,0.680841388783389,1,40,225,1,80
+"180","Pathway.KEGG_Hypertrophic cardiomyopathy (HCM)",158,0.364231921637667,1,40,90,1,52
+"181","Pathway.KEGG_Arrhythmogenic right ventricular cardiomyopathy (ARVC)",158,0.321032294114157,1,40,77,1,48
+"182","Pathway.KEGG_Dilated cardiomyopathy (DCM)",158,1,0,40,96,1,195
+"183","Pathway.KEGG_Vitamin digestion and absorption",159,1,0,40,24,1,195
+"184","Pathway.KEGG_Starch and sucrose metabolism",160,1,0,40,36,1,195
+"185","Pathway.KEGG_N-Glycan biosynthesis",160,1,0,40,50,1,195
+"186","Pathway.KEGG_Melanogenesis",161,1,0,40,101,1,195
+"187","Pathway.KEGG_Bile secretion",162,1,0,40,72,1,195
+"188","Pathway.KEGG_Phenylalanine metabolism",163,1,0,40,17,1,195
+"189","Pathway.KEGG_GnRH secretion",164,1,0,40,64,1,195
+"191","Pathway.KEGG_Vascular smooth muscle contraction",166,1,0,40,132,1,195
+"192","Pathway.KEGG_Malaria",167,0.221969549813253,1,40,50,1,39.5
+"193","Pathway.KEGG_Other glycan degradation",168,1,0,40,18,1,195
+"194","Pathway.KEGG_MicroRNAs in cancer",169,1,0,40,310,1,195
+"196","Pathway.KEGG_Various types of N-glycan biosynthesis",171,1,0,40,39,1,195
+"197","Pathway.KEGG_Taurine and hypotaurine metabolism",172,1,0,40,11,1,195
+"198","Pathway.KEGG_RNA degradation",172,1,0,40,79,1,195
+"199","Pathway.KEGG_Biosynthesis of amino acids",173,1,0,40,75,1,195
+"200","Pathway.KEGG_Prolactin signaling pathway",174,1,0,40,70,1,195
+"201","Pathway.KEGG_Aminoacyl-tRNA biosynthesis",175,1,0,40,66,1,195
+"202","Pathway.KEGG_DNA replication",176,1,0,40,36,1,195
+"206","Pathway.KEGG_Adipocytokine signaling pathway",177,1,0,40,69,1,195
+"208","Pathway.KEGG_Endometrial cancer",178,1,0,40,58,1,195
+"209","Pathway.KEGG_Natural killer cell mediated cytotoxicity",179,0.483647174734709,1,40,131,1,62
+"210","Pathway.KEGG_Pertussis",179,1,0,40,76,1,195
+"212","Pathway.KEGG_Hepatocellular carcinoma",180,1,0,40,168,1,195
+"213","Pathway.KEGG_Primary bile acid biosynthesis",181,1,0,40,17,1,195
+"214","Pathway.KEGG_Leukocyte transendothelial migration",181,0.431310112922898,1,40,112,1,57
+"215","Pathway.KEGG_Gap junction",182,1,0,40,88,1,195
+"216","Pathway.KEGG_Epithelial cell signaling in Helicobacter pylori infection",183,0.296598974542435,1,40,70,1,45
+"217","Pathway.KEGG_Retinol metabolism",184,1,0,40,67,1,195
+"218","Pathway.KEGG_Oxytocin signaling pathway",184,0.538395025427467,1,40,153,1,69
+"219","Pathway.KEGG_Linoleic acid metabolism",185,1,0,40,29,1,195
+"220","Pathway.KEGG_mRNA surveillance pathway",185,1,0,40,91,1,195
+"221","Pathway.KEGG_Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",186,1,0,40,25,1,195
+"223","Pathway.KEGG_Osteoclast differentiation",188,0.133574225928907,2,40,128,1,33
+"226","Pathway.KEGG_alpha-Linolenic acid metabolism",190,1,0,40,25,1,195
+"227","Pathway.KEGG_Gastric cancer",190,1,0,40,149,1,195
+"228","Pathway.KEGG_Central carbon metabolism in cancer",190,1,0,40,69,1,195
+"230","Pathway.KEGG_Mucin type O-glycan biosynthesis",192,1,0,40,31,1,195
+"231","Pathway.KEGG_Other types of O-glycan biosynthesis",192,1,0,40,46,1,195
+"232","Pathway.KEGG_Mannose type O-glycan biosynthesis",192,1,0,40,23,1,195
+"233","Pathway.KEGG_Base excision repair",192,1,0,40,33,1,195
+"234","Pathway.KEGG_Aldosterone synthesis and secretion",193,1,0,40,98,1,195
+"235","Pathway.KEGG_Aldosterone-regulated sodium reabsorption",193,1,0,40,37,1,195
+"236","Pathway.KEGG_Pentose and glucuronate interconversions",194,1,0,40,34,1,195
+"238","Pathway.KEGG_SNARE interactions in vesicular transport",195,1,0,40,33,1,195
+"239","Pathway.KEGG_IL-17 signaling pathway",195,1,0,40,94,1,195
+"240","Pathway.KEGG_Sulfur metabolism",196,1,0,40,10,1,195
+"241","Pathway.KEGG_Non-alcoholic fatty liver disease (NAFLD)",196,0.528880774718343,1,40,149,1,68
+"242","Pathway.KEGG_Salivary secretion",196,1,0,40,90,1,195
+"244","Pathway.KEGG_Vibrio cholerae infection",197,1,0,40,50,1,195
+"245","Pathway.KEGG_Pyrimidine metabolism",198,1,0,40,57,1,195
+"246","Pathway.KEGG_Glycerophospholipid metabolism",198,1,0,40,98,1,195
+"247","Pathway.KEGG_Pancreatic cancer",198,1,0,40,76,1,195
+"248","Pathway.KEGG_RNA polymerase",199,1,0,40,31,1,195
+"249","Pathway.KEGG_Cardiac muscle contraction",199,1,0,40,86,1,195
+"250","Pathway.KEGG_RNA transport",200,1,0,40,179,1,195
+"252","Pathway.KEGG_Measles",201,1,0,40,138,1,195
+"253","Pathway.KEGG_Porphyrin and chlorophyll metabolism",202,1,0,40,42,1,195
+"254","Pathway.KEGG_Thermogenesis",203,0.321281930211309,2,40,231,1,49
+"255","Pathway.KEGG_Protein digestion and absorption",203,1,0,40,95,1,195
+"256","Pathway.KEGG_Hedgehog signaling pathway",204,1,0,40,50,1,195
+"257","Pathway.KEGG_Oocyte meiosis",205,1,0,40,128,1,195
+"258","Pathway.KEGG_Homologous recombination",206,1,0,40,41,1,195
+"259","Pathway.KEGG_NOD-like receptor signaling pathway",206,0.599943627040531,1,40,181,1,75.5
+"260","Pathway.KEGG_Cushing syndrome",206,1,0,40,155,1,195
+"261","Pathway.KEGG_Pentose phosphate pathway",207,1,0,40,30,1,195
+"262","Pathway.KEGG_Ether lipid metabolism",208,1,0,40,47,1,195
+"263","Pathway.KEGG_Salmonella infection",208,1,0,40,214,1,195
+"265","Pathway.KEGG_Glucagon signaling pathway",209,1,0,40,106,1,195
+"266","Pathway.KEGG_Choline metabolism in cancer",209,1,0,40,98,1,195
+"268","Pathway.KEGG_Bladder cancer",210,1,0,40,41,1,195
+"269","Pathway.KEGG_Propanoate metabolism",211,1,0,40,34,1,195
+"270","Pathway.KEGG_Butanoate metabolism",212,1,0,40,28,1,195
+"272","Pathway.KEGG_Primary immunodeficiency",212,1,0,40,38,1,195
+"273","Pathway.KEGG_Viral carcinogenesis",213,1,0,40,201,1,195
+"274","Pathway.KEGG_Adherens junction",214,1,0,40,71,1,195
+"275","Pathway.KEGG_Vasopressin-regulated water reabsorption",214,1,0,40,44,1,195
+"276","Pathway.KEGG_Renal cell carcinoma",214,1,0,40,69,1,195
+"278","Pathway.KEGG_2-Oxocarboxylic acid metabolism",216,1,0,40,18,1,195
+"279","Pathway.KEGG_Chagas disease (American trypanosomiasis)",216,0.401722333650296,1,40,102,1,56
+"280","Pathway.KEGG_Nucleotide excision repair",217,1,0,40,47,1,195
+"283","Pathway.KEGG_Fat digestion and absorption",219,1,0,40,41,1,195
+"285","Pathway.KEGG_Necroptosis",220,0.193417241008795,2,40,162,1,37
+"286","Pathway.KEGG_Carbohydrate digestion and absorption",220,1,0,40,47,1,195
+"289","Pathway.KEGG_Non-homologous end-joining",221,1,0,40,13,1,195
+"290","Pathway.KEGG_Proteoglycans in cancer",221,1,0,40,204,1,195
+"291","Pathway.KEGG_Thyroid cancer",221,1,0,40,37,1,195
+"292","Pathway.KEGG_Rap1 signaling pathway",222,1,0,40,210,1,195
+"293","Pathway.KEGG_Neuroactive ligand-receptor interaction",222,1,0,40,340,1,195
+"294","Pathway.KEGG_Gastric acid secretion",222,1,0,40,75,1,195
+"295","Pathway.KEGG_Mineral absorption",222,1,0,40,58,1,195
+"296","Pathway.KEGG_C-type lectin receptor signaling pathway",223,1,0,40,104,1,195
+"297","Pathway.KEGG_Regulation of lipolysis in adipocytes",223,1,0,40,55,1,195
+"298","Pathway.KEGG_Ferroptosis",224,1,0,40,40,1,195
+"299","Pathway.KEGG_African trypanosomiasis",224,1,0,40,37,1,195
+"300","Pathway.KEGG_Human papillomavirus infection",225,0.814815043417046,1,40,330,1,82
+"301","Pathway.KEGG_Kaposi sarcoma-associated herpesvirus infection",225,1,0,40,186,1,195
+"302","Pathway.KEGG_Glycerolipid metabolism",226,1,0,40,61,1,195
+"303","Pathway.KEGG_Glyoxylate and dicarboxylate metabolism",227,1,0,40,30,1,195
+"304","Pathway.KEGG_RIG-I-like receptor signaling pathway",228,1,0,40,70,1,195
+"305","Pathway.KEGG_Inflammatory mediator regulation of TRP channels",229,1,0,40,100,1,195
+"306","Pathway.KEGG_Basal cell carcinoma",229,1,0,40,63,1,195
+"307","Pathway.KEGG_Mismatch repair",230,1,0,40,23,1,195
+"308","Pathway.KEGG_Bacterial invasion of epithelial cells",230,0.307173604975249,1,40,73,1,46
+"309","Pathway.KEGG_Endocrine resistance",231,1,0,40,98,1,195
+"310","Pathway.KEGG_Shigellosis",231,0.698427956052559,1,40,236,1,81
+"311","Pathway.KEGG_PD-L1 expression and PD-1 checkpoint pathway in cancer",231,1,0,40,89,1,195
+"312","Pathway.KEGG_Fanconi anemia pathway",232,1,0,40,54,1,195
+"313","Pathway.KEGG_Cytosolic DNA-sensing pathway",232,1,0,40,63,1,195
+"314","Pathway.KEGG_Platinum drug resistance",233,1,0,40,73,1,195
+"315","Pathway.KEGG_Hippo signaling pathway",234,1,0,40,155,1,195
+"316","Pathway.KEGG_Progesterone-mediated oocyte maturation",234,1,0,40,99,1,195
+"318","Pathway.KEGG_Apelin signaling pathway",235,0.4991764012903,1,40,137,1,64
+"319","Pathway.KEGG_Fc epsilon RI signaling pathway",235,0.289461968770146,1,40,68,1,43
+"320","Pathway.KEGG_Phototransduction",235,1,0,40,28,1,195
+"321","Pathway.KEGG_Relaxin signaling pathway",235,1,0,40,129,1,195
+"322","Pathway.KEGG_Endocrine and other factor-regulated calcium reabsorption",235,0.233636893977013,1,40,53,1,41
+"323","Pathway.KEGG_Amino sugar and nucleotide sugar metabolism",235,1,0,40,48,1,195
+"324","Pathway.KEGG_Antifolate resistance",236,1,0,40,31,1,195
+"325","Pathway.KEGG_Maturity onset diabetes of the young",236,1,0,40,26,1,195
+"326","Pathway.KEGG_Collecting duct acid secretion",236,1,0,40,27,1,195
+"327","Pathway.KEGG_Proximal tubule bicarbonate reclamation",237,1,0,40,23,1,195
+"328","Pathway.KEGG_Yersinia infection",237,0.45394857507446,1,40,120,1,60
+"329","Pathway.KEGG_Amoebiasis",237,1,0,40,102,1,195

@@ -1,0 +1,195 @@
+Pathway	Genetic_rank	Notes
+Spliceosome	1	.
+One carbon pool by folate	2	.
+Breast cancer	3	.
+Vitamin B6 metabolism	4	.
+Hypertrophic cardiomyopathy (HCM)	5	.
+Arrhythmogenic right ventricular cardiomyopathy (ARVC)	5	.
+Dilated cardiomyopathy (DCM)	5	.
+Folate biosynthesis	6	.
+Colorectal cancer	7	.
+ABC transporters	8	.
+Prostate cancer	9	.
+Type I diabetes mellitus	10	.
+Notch signaling pathway	11	.
+Renin-angiotensin system	12	.
+Fluid shear stress and atherosclerosis	13	.
+Herpes simplex virus 1 infection	15	.
+Alcoholism	16	.
+Renin secretion	17	.
+Longevity regulating pathway	18	.
+Melanoma	19	.
+Metabolism of xenobiotics by cytochrome P450	20	.
+Cholesterol metabolism	21	.
+Non-small cell lung cancer	22	.
+Asthma	23	.
+Vitamin digestion and absorption	24	.
+Small cell lung cancer	25	.
+Type II diabetes mellitus	26	.
+ErbB signaling pathway	28	.
+Tuberculosis	29	.
+Hepatitis C	30	.
+Rheumatoid arthritis	31	.
+Valine leucine and isoleucine degradation	32	.
+Valine leucine and isoleucine biosynthesis	32	.
+Chemical carcinogenesis	33	.
+Transcriptional misregulation in cancer	34	.
+Various types of N-glycan biosynthesis	35	.
+Chronic myeloid leukemia	36	.
+Acute myeloid leukemia	36	.
+Hepatitis B	37	.
+Oxidative phosphorylation	38	.
+Estrogen signaling pathway	39	.
+Influenza A	40	.
+Long-term depression	41	.
+Systemic lupus erythematosus	42	.
+Toxoplasmosis	43	.
+Pathogenic Escherichia coli infection	44	.
+Carbon metabolism	45	.
+Bile secretion	45	.
+N-Glycan biosynthesis	46	.
+Prion diseases	47	.
+Human cytomegalovirus infection	48	.
+Basal transcription factors	49	.
+Insulin resistance	50	.
+Pantothenate and CoA biosynthesis	51	.
+Complement and coagulation cascades	52	.
+Thyroid hormone synthesis	53	.
+Thyroid hormone signaling pathway	53	.
+GnRH signaling pathway	54	.
+Pathways in cancer	55	.
+GnRH secretion	56	.
+EGFR tyrosine kinase inhibitor resistance	57	.
+Ubiquitin mediated proteolysis	58	.
+Other glycan degradation	59	.
+Amyotrophic lateral sclerosis (ALS)	60	.
+Parkinson disease	61	.
+Circadian rhythm	62	.
+Circadian entrainment	62	.
+Cortisol synthesis and secretion	63	.
+Insulin signaling pathway	64	.
+Insulin secretion	64	.
+Metabolic pathways	65	.
+Ribosome biogenesis in eukaryotes	66	.
+Ribosome	66	.
+Huntington disease	67	.
+Purine metabolism	68	.
+Ras signaling pathway	69	.
+Fatty acid biosynthesis	70	.
+Serotonergic synapse	71	.
+Cell cycle	72	.
+Fatty acid elongation	73	.
+Fatty acid degradation	73	.
+Fatty acid metabolism	73	.
+Alzheimer disease	74	.
+Biosynthesis of unsaturated fatty acids	75	.
+Ubiquinone and other terpenoid-quinone biosynthesis	76	.
+Taste transduction	77	.
+Thiamine metabolism	78	.
+Innate immune system	79	Reactome
+Cocaine addiction	80	.
+Caffeine metabolism	81	.
+Proteasome	82	.
+Pancreatic secretion	83	.
+Focal adhesion	84	.
+Ascorbate and aldarate metabolism	85	.
+Human immunodeficiency virus 1 infection	86	.
+Cysteine and methionine metabolism	87	.
+Phenylalanine metabolism	88	.
+p53 signaling pathway	89	.
+TGF-beta signaling pathway	90	.
+Protein processing in endoplasmic reticulum	91	.
+Protein export	92	.
+Toll-like receptor signaling pathway	93	.
+Ovarian steroidogenesis	94	.
+Steroid biosynthesis	95	.
+Steroid hormone biosynthesis	96	.
+Glioma	97	.
+VEGF signaling pathway	98	.
+FoxO signaling pathway	99	.
+Wnt signaling pathway	100	.
+Dopaminergic synapse	102	.
+D-Arginine and D-ornithine metabolism	103	.
+Axon guidance	104	.
+Cell adhesion molecules (CAMs)	105	.
+Tryptophan metabolism	106	.
+Selenocompound metabolism	107	.
+Platelet activation	108	.
+Antigen processing and presentation	109	.
+Lysosome	110	.
+Starch and sucrose metabolism	111	.
+Sphingolipid metabolism	112	.
+Adaptive immune system	113	Reactome
+Arginine biosynthesis	114	.
+Glycine serine and threonine metabolism	115	.
+HIF-1 signaling pathway	116	.
+Arginine and proline metabolism	117	.
+Olfactory transduction	118	.
+T cell receptor signaling pathway	119	.
+Endocytosis	120	.
+Cellular senescence	121	.
+Th1 and Th2 cell differentiation	122	.
+Sphingolipid signaling pathway	123	.
+JAK-STAT signaling pathway	124	.
+Lysine degradation	125	.
+B cell receptor signaling pathway	126	.
+Calcium signaling pathway	127	.
+Terpenoid backbone biosynthesis	128	.
+Histidine metabolism	129	.
+Regulation of actin cytoskeleton	130	.
+PPAR signaling pathway	131	.
+Chemokine signaling pathway	132	.
+Cytokine-cytokine receptor interaction	133	.
+Phenylalanine tyrosine and tryptophan biosynthesis	134	.
+beta[^a-zA-Z]Alanine metabolism	135	.
+Peroxisome	136	.
+mTOR signaling pathway	137	.
+Phospholipase D signaling pathway	138	.
+Viral protein interaction with cytokine and cytokine receptor	139	.
+AGE-RAGE signaling pathway in diabetic complications	140	.
+TNF signaling pathway	141	.
+Citrate cycle (TCA cycle)	142	.
+Phosphatidylinositol signaling system	143	.
+Autophagy	144	.
+Synthesis and degradation of ketone bodies	145	.
+Inositol phosphate metabolism	146	.
+Nicotine addiction	147	.
+Apoptosis	148	.
+Pyruvate metabolism	150	.
+Morphine addiction	151	.
+Synaptic vesicle cycle	152	.
+Adrenergic signaling in cardiomyocytes	153	.
+cAMP signaling pathway	154	.
+Tyrosine metabolism	155	.
+Arachidonic acid metabolism	156	.
+Hematopoietic cell lineage	157	.
+Glycolysis/Gluconeogenesis	158	.
+Nicotinate and nicotinamide metabolism	159	.
+Amphetamine addiction	160	.
+Fructose and mannose metabolism	161	.
+Retrograde endocannabinoid signaling	162	.
+Glutathione metabolism	163	.
+NF-kappa B signaling pathway	164	.
+Signaling pathways regulating pluripotency of stem cells	165	.
+D-Glutamine and D-glutamate metabolism	166	.
+Glycosaminoglycan degradation	167	.
+Glycosaminoglycan biosynthesis	167	.
+AMPK signaling pathway	168	.
+Nitrogen metabolism	169	.
+Phagosome	170	.
+Cholinergic synapse	171	.
+Neurotrophin signaling pathway	172	.
+Alanine aspartate and glutamate metabolism	173	.
+Lipoic acid metabolism	174	.
+Glutamatergic synapse	175	.
+MAPK signaling pathway	176	.
+cGMP-PKG signaling pathway	177	.
+Cytokine signaling in immune system	178	Reactome
+PI3K-Akt signaling pathway	179	.
+GABAergic synapse	180	.
+Melanogenesis	181	.
+Tight junction	182	.
+ECM-receptor interaction	183	.
+Long-term potentiation	184	.
+Galactose metabolism	185	.
+

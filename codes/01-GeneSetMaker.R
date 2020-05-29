@@ -73,4 +73,5 @@ graphs.nodes  <-  sapply(graphs.list, function(X) ({
 
 
 saveRDS(graphs.nodes,"KEGG_PCxN/KEGG_PCxN.RDS")
+saveRDS(graphs.nodes,"data/KEGG_PCxN.RDS")
 
