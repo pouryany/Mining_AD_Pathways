@@ -5,9 +5,8 @@ library(org.Hs.eg.db)
 library(clusterProfiler)
 
 
-str        <- readr::read_file("data/ADCL.txt")
-str        <- gsub("\\s","",str)
-str        <- (strsplit(str,split = ","))
+str        <- read.csv("data/ADCL.csv",header = F)
+str        <- str$V1
 names(str) <- "ADCL"
 
 str        <- bitr(unlist(str),fromType = "SYMBOL",

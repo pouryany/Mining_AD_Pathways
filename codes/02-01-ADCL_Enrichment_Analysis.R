@@ -99,12 +99,38 @@ if(!dir.exists(output.dir)){
     
     #saveRDS(iterator,"Data/temp_pourya/PATHWAY_KEGG_ADSET_ENRICHMENT.rds")
     
-    
-    
-    
-    
+    AD.sets3$open_targets
 
-
+    
+    str        <- read.csv("data/ADCL.csv",header = F)
+    str        <- str$V1
+    names(str) <- "ADCL"
+    
+    str        <- bitr(unlist(str),fromType = "SYMBOL",
+                       toType = "ENTREZID",OrgDb = "org.Hs.eg.db")
+    
+    
+    str <- str[str$ENTREZID %in% AD.sets3$ADCL,]
+    write.csv(str,"outData/ADCL_geneTable.csv")
+    
+    
+  
+    
+    #open.targets <- read.csv("data/AD_genes_Open_Targets.txt", sep = "\t")
+    open.targets0<- read.csv("data/my_AD_list.csv")
+    open.targets <- read.csv("data/my_AD_list.csv")
+    open.targets <- open.targets[open.targets$association_score.overall >= 0.1,]
+    open.targets <- open.targets$target.gene_info.symbol
+    open.targets <- bitr(unlist(open.targets),fromType = "SYMBOL",
+                         toType = "ENTREZID",OrgDb = "org.Hs.eg.db")
+    
+    open.targets <- open.targets[open.targets$ENTREZID %in% AD.sets3$open_targets,]
+    
+    
+    open.targets0 <-open.targets0[open.targets0$target.gene_info.symbol %in% open.targets$SYMBOL,]
+    nrow(open.targets0)
+    write.csv(open.targets0,"outData/openTargets_geneTable.csv")
+    
 
 
 
