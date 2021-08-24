@@ -1,3 +1,6 @@
 .DS_Store
 .Rhistory
 *.png
+Misc/
+PATHWAYLIST/
+KEGG_PCxN/

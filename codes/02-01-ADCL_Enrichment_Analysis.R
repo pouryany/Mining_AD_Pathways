@@ -36,9 +36,11 @@ if(!dir.exists(output.dir)){
         X[X %in% kegg.ref]})
 
     
-    
-
-
+    library(org.Hs.eg.db)
+    library(clusterProfiler)
+    ADCL.df  <-  bitr(AD.sets3[[1]],fromType = "ENTREZID",
+                                   toType = "SYMBOL",OrgDb = "org.Hs.eg.db")
+    write.csv(ADCL.df,"outData/2020_12_02_ADCL_30_Genes.csv")
 
     
     ##
@@ -56,9 +58,7 @@ if(!dir.exists(output.dir)){
     iterator     <- iterator %>% mutate_all(.,as.character)
     all          <- length(kegg.ref)
     
-    
-    
-    
+
     
     enrichs   <- mclapply(1:nrow(iterator), function(Y){
         
@@ -111,7 +111,7 @@ if(!dir.exists(output.dir)){
     
     
     str <- str[str$ENTREZID %in% AD.sets3$ADCL,]
-    write.csv(str,"outData/ADCL_geneTable.csv")
+    write.csv(str,"data/ADCL_geneTable.csv")
     
     
   
@@ -129,7 +129,7 @@ if(!dir.exists(output.dir)){
     
     open.targets0 <-open.targets0[open.targets0$target.gene_info.symbol %in% open.targets$SYMBOL,]
     nrow(open.targets0)
-    write.csv(open.targets0,"outData/openTargets_geneTable.csv")
+    write.csv(open.targets0,"data/openTargets_geneTable.csv")
     
 
 

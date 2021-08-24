@@ -41,7 +41,7 @@ cor.thresh  <- 0
     # Phenylalanine, tyrosine and tryptophan biosynthesis = 5 
     # The above pathway will be excluded from the top list
     
-    path.dir   <- read.csv("new_data/Annotated_with_KEGG_Class.txt", sep = "\t") 
+    path.dir   <- read.csv("data/Annotated_with_KEGG_Class.txt", sep = "\t") 
     path.cls   <- path.dir$Pclass
     shrt.name  <- as.character(path.dir$Short_name)
     path.rank  <- path.dir$Overall_rank

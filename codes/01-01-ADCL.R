@@ -8,7 +8,6 @@ library(clusterProfiler)
 str        <- read.csv("data/ADCL.csv",header = F)
 str        <- str$V1
 names(str) <- "ADCL"
-
 str        <- bitr(unlist(str),fromType = "SYMBOL",
                    toType = "ENTREZID",OrgDb = "org.Hs.eg.db")
 
@@ -20,14 +19,19 @@ list2   <- readxl::read_excel("data/journal.pcbi.1006042.s009.xlsx")
 saveRDS(list2,"data/ADGeneList.RDS")
 
 #open.targets <- read.csv("data/AD_genes_Open_Targets.txt", sep = "\t")
-open.targets <- read.csv("data/my_AD_list.csv")
+open.targets <- read.csv("data/open_targets_gene_drug_path_RNA.csv")
 open.targets <- open.targets[open.targets$association_score.overall >= 0.1,]
 open.targets <- open.targets$target.gene_info.symbol
-open.targets <- bitr(unlist(open.targets),fromType = "SYMBOL",
-                   toType = "ENTREZID",OrgDb = "org.Hs.eg.db")
-write.csv(open.targets,"outData/open_targets_genes.csv")
+open.targets <- bitr(unlist(open.targets),
+                     fromType = "SYMBOL",
+                     toType = "ENTREZID",
+                     OrgDb = "org.Hs.eg.db")
 
-list3   <- list("ADCL" = str$ENTREZID, "ADGeneList" = list2$ENTREZID, 
+write.csv(open.targets,"data/open_targets_genes.csv")
+
+
+list3   <- list("ADCL" = str$ENTREZID, 
+                "ADGeneList" = list2$ENTREZID, 
                 "open_targets" = open.targets$ENTREZID)
 saveRDS(list3,"data/ADGeneSets.RDS")
 
@@ -36,14 +40,19 @@ saveRDS(list3,"data/ADGeneSets.RDS")
 
 genesets.dir <- "data/KEGG_PCxN.RDS"
 kegg.paths   <- readRDS(genesets.dir)
+kegg.genes   <- sapply(kegg.paths,
+                       function(X){ 
+                            gene.df <- bitr(X, 
+                                            fromType ="ENTREZID",
+                                            toType = "SYMBOL",
+                                            OrgDb = org.Hs.eg.db)
+                            return(paste(gene.df$SYMBOL,collapse =", "))
+                                  }
+                       )
 
-kegg.genes   <- sapply(kegg.paths, function(X){ 
-                        gene.df <- bitr(X, fromType ="ENTREZID",toType = "SYMBOL",
-                                                     OrgDb = org.Hs.eg.db)
-                        return(paste(gene.df$SYMBOL,collapse =", "))
-                      })
+path.tab           <- data.frame("Pathway" = names(kegg.genes),
+                                 "Genes" = kegg.genes )
+rownames(path.tab) <- NULL
 
-path.tab    <- data.frame("Pathway" = names(kegg.genes), "Genes" = kegg.genes )
-rownames(path.tab ) <- NULL
 write.table(path.tab,"data/PathGeneTab.tsv", sep = "\t")
 

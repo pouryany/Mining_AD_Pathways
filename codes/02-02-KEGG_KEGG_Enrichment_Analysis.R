@@ -1,4 +1,4 @@
-# Enrichment analysis of AD pathways and AD genelists. 
+# Enrichment analysis of all pairs of KEGG pathways. 
 
 
 rm(list=ls())
@@ -12,9 +12,8 @@ library(org.Hs.eg.db)
 
 path.thresh  <- 9
 genesets.dir <- "data/KEGG_PCxN.RDS"
-ADsets.dir  <- "data/KEGG_PCxN.RDS"  
+ADsets.dir   <- "data/KEGG_PCxN.RDS"  
 num.cors     <- detectCores()/2
-#input.dir    <-"Data/temp_pourya/"
 output.dir   <- "data"
 
 if(!dir.exists(output.dir)){
@@ -101,9 +100,7 @@ if(!dir.exists(output.dir)){
     saveRDS(iterator,save.dir)
     write.csv(iterator,"data/KEGG_KEGG_EnrichmentAnalysis.csv")
     
-    
-    #saveRDS(iterator,"Data/temp_pourya/PATHWAY_KEGG_ADSET_ENRICHMENT.rds")
-    
+
     
     
     

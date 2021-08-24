@@ -10,7 +10,7 @@ Proteasome	11	.
 Chemokine signaling pathway	12	.
 Calcium signaling pathway	13	.
 Glutamatergic synapse	14	.
-Alanine aspartate and glutamate metabolism	15	.
+Alanine, aspartate and glutamate metabolism	15	.
 Dopaminergic synapse	16	.
 Cholesterol metabolism	17	.
 Huntington disease	18	.
@@ -27,7 +27,7 @@ Estrogen signaling pathway	27	.
 Basal transcription factors	28	.
 Glutathione metabolism	29	.
 Fluid shear stress and atherosclerosis	30	.
-Phenylalanine tyrosine and tryptophan biosynthesis	31	.
+Phenylalanine, tyrosine and tryptophan biosynthesis	31	.
 Lysosome	32	.
 Long-term potentiation	33	.
 Fatty acid elongation	34	.
@@ -38,7 +38,7 @@ Protein processing in endoplasmic reticulum	36	.
 Olfactory transduction	37	.
 Pathways in cancer	38	.
 NF-kappa B signaling pathway	39	.
-Autophagy	40	.
+Autophagy - animal	40	.
 Endocytosis	41	.
 Cytokine-cytokine receptor interaction	42	.
 MAPK signaling pathway	43	.
